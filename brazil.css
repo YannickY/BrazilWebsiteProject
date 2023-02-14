@@ -1,0 +1,52 @@
+
+header {
+    
+    
+    text-align: center;
+}
+
+.info {
+    font-weight: bold;
+}
+
+
+
+
+div {
+    margin-left: auto;
+    margin-right: auto;
+    width: 25em;
+}
+
+img {
+    border: 3px solid;
+    width: 400px;
+    height: 350px;
+    
+}
+
+.motion {
+    border: 3px solid;
+}
+
+
+
+
+
+.animation {
+    
+width: 500px;
+height: 400px;
+
+}
+
+
+
+footer {
+    text-align: center;
+    
+}
+
+body {
+    background-image: url(braz.jpg);
+}
